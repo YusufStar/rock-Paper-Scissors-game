@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-bg {
+    background-image: radial-gradient(circle, hsl(214, 47%, 23%), hsl(237, 49%, 15%));
+}
